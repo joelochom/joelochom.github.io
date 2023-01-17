@@ -1,6 +1,6 @@
 
 body{
-	background-color:white;
+	background-color:gray;
 	font-family:colombia;
 	font-variant: normal;
 	color:black;
@@ -30,9 +30,9 @@ h3{
 }
 button{
 	font-family:Fantasy;
-	font-size:20px;
+	font-size:35px;
 	background-color:yellow;
-	border-radius:t;
+	border-radius:20px;
 	border-style:66;
 	 border: 2px solid powdergreen;
 	 padding: 30px;
