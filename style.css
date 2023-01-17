@@ -1,0 +1,59 @@
+
+body{
+	background-color:gray;
+	font-family:colombia;
+	font-variant: normal;
+	color:black;
+  text-align: center;
+  font-family: verdana;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bold;
+	
+}
+h1{
+	font-family:Algerian;
+	color:white;
+	font-size:50px;
+	background-color:black;
+	font-variant: normal;
+	font-size: 2.5em; /* 40px/16=2.5em */
+	 font-style: oblique;
+	 background: black;
+}
+h2{
+	color:black;
+}
+h3{
+	color:yellow;
+	font-variant: normal;
+}
+button{
+	font-family:Fantasy;
+	font-size:20px;
+	background-color:yellow;
+	border-radius:t;
+	border-style:66;
+	 border: 2px solid powdergreen;
+	 padding: 30px;
+	 margin: 50px;
+	 font-family: verdana;
+	 text-align: center;
+	 font-variant: normal;
+	 font-variant: small-caps;
+	 float: down;
+  padding: 15px;
+  float: center;
+  width: 33.33%; /* three boxes (use 25% for four, and 50% for two, etc) */
+  padding: 50px; /* if you want space between the images */
+}
+h4{
+	background-color:Orange;
+}
+
+h6{
+	font-size:30px;
+	font-family:Bernard MT Condensed;
+	color:teal;
+	
+}
