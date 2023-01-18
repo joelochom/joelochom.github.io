@@ -33,6 +33,12 @@ button{
 	font-size:35px;
 	background-color:yellow;
 	border-radius:20px;
+	footer{
+		text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  color: white;
+	}
 	border-style:66;
 	 border: 2px solid powdergreen;
 	 padding: 30px;
